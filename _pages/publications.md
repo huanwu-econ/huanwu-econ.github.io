@@ -26,7 +26,7 @@ author_profile: true
 # Job Market Paper
 ***
 
-## [Unobserved Heterogeneous Spillover Effect in Instrumental Variable Models](https://huanwu-econ.github.io/files/JMP_Wu.pdf)
+## [Unobserved Heterogeneous Spillover Effects in Instrumental Variable Models](https://huanwu-econ.github.io/files/JMP_Wu.pdf)
 
 <details>
    <summary><u>Abstract</u></summary>
