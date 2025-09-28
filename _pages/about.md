@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Ph.D. candidate from Department of Economics in University of North Carolina at Chapel Hill in the United States. 
+**Welcome!** 
+
+I am a Ph.D. candidate from Department of Economics in University of North Carolina at Chapel Hill in the United States. 
 
 My research interests focuses on **econometrics**, especially
 
@@ -18,6 +20,6 @@ My research interests focuses on **econometrics**, especially
 
 with applications to labor economics and industrial organization.
 
-**I am on the 2025-2026 job market.**
+**I am on the 2025-2026 job market.** You can reach me at **huan.wu@unc.edu**.
 
 [Curriculum Vitae](https://huanwu-econ.github.io/files/CV_Wu.pdf) 
