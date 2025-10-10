@@ -16,7 +16,6 @@ My research interests focuses on **econometrics**, especially
 
 * Causal Inference
 * Spillover Effects
-* Partial Identification
 
 with applications to labor economics and industrial organization.
 
