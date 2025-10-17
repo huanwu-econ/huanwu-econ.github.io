@@ -10,14 +10,14 @@ redirect_from:
 
 **Welcome!** 
 
-I am a Ph.D. candidate from [Department of Economics in University of North Carolina at Chapel Hill](https://econ.unc.edu/) in the United States. 
+I am a Ph.D. candidate in the [Department of Economics at the University of North Carolina at Chapel Hill,](https://econ.unc.edu/) United States. 
 
-My research interests focuses on **econometrics**, especially
+My research interests focus on **econometrics**, particularly on
 
 * Causal Inference
 * Spillover Effects
 
-with applications to labor economics and industrial organization.
+with applications to applied microeconomics and industrial organization.
 
 **I am on the 2025-2026 job market.** You can reach me at [**huan.wu@unc.edu**](mailto:huan.wu@unc.edu).
 
