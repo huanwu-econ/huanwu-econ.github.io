@@ -41,7 +41,7 @@ author_profile: true
 ***
 
 ## [Testing Identifying Assumptions in Parametric Separable Models: A Conditional Moment Inequality Approach](https://huanwu-econ.github.io/files/GKW-2024.pdf) 
-with [Leonard Goff](https://www.leonardgoff.com/) and [Désiré Kédagni](https://sites.google.com/site/desirekedagni/)
+with [Leonard Goff](https://www.leonardgoff.com/) and [Désiré Kédagni](https://sites.google.com/site/desirekedagni/). <i>Reject and resubmit at Econometrics Journal.</i>
 
 <details>
     <summary><u>Abstract</u></summary>
@@ -50,7 +50,7 @@ with [Leonard Goff](https://www.leonardgoff.com/) and [Désiré Kédagni](https:
 </details> <br> 
 
 ## [Robust Identification in Randomized Experiments with Noncompliance](https://huanwu-econ.github.io/files/KWC-2025.pdf) 
-with [Désiré Kédagni](https://sites.google.com/site/desirekedagni/) and Yi Cui
+with [Désiré Kédagni](https://sites.google.com/site/desirekedagni/) and Yi Cui. <i>Under review.</i>
 
 <details>
     <summary><u>Abstract</u></summary><p> 
@@ -81,4 +81,10 @@ with [Désiré Kédagni](https://sites.google.com/site/desirekedagni/)
 </p>
 </details> <br> 
 
-## Relaxing Identifying Assumptions in Triangular Model
+## Relaxing Identifying Assumptions in Triangular Models
+
+<details>
+    <summary><u>Abstract</u></summary><p>   
+	This paper examines identification in triangular models when standard instrumental variable (IV) assumptions, such as exclusion and independence, may not hold. I show that these IV assumptions can be formally tested within the triangular framework, providing researchers with practical tools to assess the credibility of identification. In addition, I develop new methods for the partial identification of potential outcome distributions and marginal treatment effects when these assumptions are violated. By allowing instruments to be correlated with unobserved heterogeneity or to exert direct effects on outcomes, the framework derives informative bounds under weaker identifying conditions. This approach enhances the robustness of triangular models in applied research. The empirical application applies the proposed framework to reassess the Bartik instrument used in Card (2009), estimating informative bounds on the effect of working hours on the wage difference between immigrants and natives.
+</p>
+</details> <br> 
