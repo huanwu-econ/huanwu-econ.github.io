@@ -40,22 +40,23 @@ author_profile: true
 # Working Papers
 ***
 
-## [Testing Identifying Assumptions in Parametric Separable Models: A Conditional Moment Inequality Approach](https://huanwu-econ.github.io/files/GKW-2024.pdf) 
-with [Leonard Goff](https://www.leonardgoff.com/) and [Désiré Kédagni](https://sites.google.com/site/desirekedagni/). <i>Reject and resubmit at Econometrics Journal.</i>
-
-<details>
-    <summary><u>Abstract</u></summary>
-    <p>In this paper, we propose a simple method for testing identifying assumptions in parametric separable models, namely treatment exogeneity, instrument validity, and/or homoskedasticity. We show that the testable implications can be written in the intersection bounds framework, which is easy to implement using the inference method proposed in Chernozhukov, Lee, and Rosen (2013), and the Stata package of Chernozhukov et al. (2015). Monte Carlo simulations confirm that our test is consistent and controls size. We use our proposed method to test the validity of some commonly used instrumental variables, such as the average price in other markets in Nevo and Rosen (2012), the Bartik instrument in Card (2009), and the test rejects both instrumental variable models. When the identifying assumptions are rejected, we discuss solutions that allow researchers to identify some causal parameters of interest after relaxing functional form assumptions. We show that the IV model is nontestable if no functional form assumption is made on the outcome equation, when there exists a one-to-one mapping between the continuous treatment variable, the instrument, and the first-stage unobserved heterogeneity.
-    </p>
-</details> <br> 
-
 ## [Robust Identification in Randomized Experiments with Noncompliance](https://huanwu-econ.github.io/files/KWC-2025.pdf) 
-with [Désiré Kédagni](https://sites.google.com/site/desirekedagni/) and Yi Cui. <i>Under review.</i>
+with [Désiré Kédagni](https://sites.google.com/site/desirekedagni/) and Yi Cui. <i>Revise and resubmit, Journal of Applied Econometrics.</i>
 
 <details>
     <summary><u>Abstract</u></summary><p> 
     Instrument variable (IV) methods are widely used in empirical research to identify causal effects of a policy. In the local average treatment effect (LATE) framework, the IV estimand identifies the LATE under three main assumptions: random assignment, exclusion restriction, and monotonicity. However, these assumptions are often questionable in many applications, leading some researchers to doubt the causal interpretation of the IV estimand. This paper considers a robust identification of causal parameters in a randomized experiment setting with noncompliance where the standard LATE assumptions could be violated. We discuss identification under two sets of weaker assumptions: random assignment and exclusion restriction (without monotonicity), and random assignment and monotonicity (without exclusion restriction). We derive sharp bounds on some causal parameters under these two sets of relaxed LATE assumptions. Finally, we apply our method to revisit the random information experiment conducted in Bursztyn, González, and Yanagizawa-Drott (2020) and find that the standard LATE assumptions are jointly incompatible in this application. We then estimate the robust identified sets under the two sets of relaxed assumptions.
 </p>
+</details> <br> 
+
+
+## [Testing Identifying Assumptions in Parametric Separable Models: A Conditional Moment Inequality Approach](https://huanwu-econ.github.io/files/GKW-2024.pdf) 
+with [Leonard Goff](https://www.leonardgoff.com/) and [Désiré Kédagni](https://sites.google.com/site/desirekedagni/). <i>Reject and resubmit, Econometrics Journal.</i>
+
+<details>
+    <summary><u>Abstract</u></summary>
+    <p>In this paper, we propose a simple method for testing identifying assumptions in parametric separable models, namely treatment exogeneity, instrument validity, and/or homoskedasticity. We show that the testable implications can be written in the intersection bounds framework, which is easy to implement using the inference method proposed in Chernozhukov, Lee, and Rosen (2013), and the Stata package of Chernozhukov et al. (2015). Monte Carlo simulations confirm that our test is consistent and controls size. We use our proposed method to test the validity of some commonly used instrumental variables, such as the average price in other markets in Nevo and Rosen (2012), the Bartik instrument in Card (2009), and the test rejects both instrumental variable models. When the identifying assumptions are rejected, we discuss solutions that allow researchers to identify some causal parameters of interest after relaxing functional form assumptions. We show that the IV model is nontestable if no functional form assumption is made on the outcome equation, when there exists a one-to-one mapping between the continuous treatment variable, the instrument, and the first-stage unobserved heterogeneity.
+    </p>
 </details> <br> 
 
 
