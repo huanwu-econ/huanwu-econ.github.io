@@ -22,3 +22,5 @@ with applications to applied microeconomics and industrial organization.
 **I am on the 2025-2026 job market.** You can reach me at [**huan.wu@unc.edu**](mailto:huan.wu@unc.edu).
 
 [Curriculum Vitae](https://huanwu-econ.github.io/files/CV_Wu.pdf) 
+
+[Job Market Paper](https://huanwu-econ.github.io/files/JMP_Wu.pdf) 
